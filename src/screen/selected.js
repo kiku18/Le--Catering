@@ -45,16 +45,16 @@ if (Object.values(filterObj).includes(true)){
      setPriceFilter(filteredObj);
  console.log(Object.values(filteredObj).includes(true))
 if (Object.values(filteredObj).includes(true)){
-  let filteredAllJson = Allfoods.filter((it) => {
+  let pricefilteredAllJson = Allfoods.filter((it) => {
     return filteredObj[it.price];
   });
-  console.log(filteredAllJson)
-  setAllJson(filteredAllJson);
+  console.log(pricefilteredAllJson)
+  setAllJson(pricefilteredAllJson);
 } else{
   setAllJson(Allfoods)
 }
   };
-  console.log(filter);
+  console.log(pricefilter);
 // }
 
   return (
@@ -179,7 +179,7 @@ if (Object.values(filteredObj).includes(true)){
                   <input
                     className="w3-check"
                     type="checkbox"
-                    name="20.50"
+                    name="21.59"
                     onChange={setPriceValues}
                   />
                   <aria-label>

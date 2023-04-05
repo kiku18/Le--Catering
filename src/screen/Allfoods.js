@@ -22,7 +22,7 @@ const Allfoods =
         "url":"https://www.expatica.com/app/uploads/sites/5/2014/05/cassoulet.jpg",
         "title": "Cassoulet",
         "body": " The dish typically uses pork or duck but can include sausages, goose, mutton or whatever else the chef has lying around.",
-        "price": 20.50
+        "price": 21.59
         },
         {
         "FoodId": "french",
@@ -46,7 +46,7 @@ const Allfoods =
         "url":"https://www.expatica.com/app/uploads/sites/5/2014/05/flamiche.jpg",
         "title": "Flamiche",
         "body": "It has a puff-pastry crust filled with cheese and vegetables and resembles a quiche. The traditional filling is leeks and cream.",
-        "price": 20.50
+        "price": 21.59
         },
         {
         "FoodId": "french",
@@ -86,7 +86,7 @@ const Allfoods =
         "url":"https://www.expatica.com/app/uploads/sites/19/2022/12/pizza-napoletana.jpg",
         "title": "Pizza Napoletana",
         "body": "A symbol of Italian food, and Naples, the pizza Napoletana – better known as a Margherita – is a simple yet elegant classic.",
-        "price": 20.50
+        "price": 21.59
         },
         {
         "FoodId": "italian",
@@ -110,7 +110,7 @@ const Allfoods =
         "url":"https://www.expatica.com/app/uploads/sites/19/2022/12/risi-e-bisi.jpg",
         "title": "Risi e bisi",
         "body": "To make this dish, cooked rice and peas are added to a simple, flavorsome broth made using onion and fatty pancetta.",
-        "price": 20.50
+        "price": 21.59
         },
         {
         "FoodId": "italian",
@@ -150,7 +150,7 @@ const Allfoods =
             "url":"https://www.expatica.com/app/uploads/sites/6/2014/05/sauerbraten.jpg",
             "title": "Sauerbraten",
             "body": "Schweinebraten (which translates as ‘roast pork’) is a delicious Bavarian recipe that comes with braised cabbage and dumplings.",
-            "price": 20.50
+            "price": 21.59
             },
             {
             "FoodId": "deutsch",
@@ -174,7 +174,7 @@ const Allfoods =
             "url":"https://www.expatica.com/app/uploads/sites/6/2014/05/schwarzwalder-kirschtorte.jpg",
             "title": "Schwarzwälder Kirschtorte",
             "body": "Germany’s most famous cake: the delicious Schwarzwälder Kirschtorte (which literally means ‘Black Forest cherry torte’)",
-            "price": 20.50
+            "price": 21.59
             },
             {
             "FoodId": "deutsch",
@@ -214,7 +214,7 @@ const Allfoods =
                 "url":"https://www.expatica.com/app/uploads/sites/10/2014/05/fresh-apple-crumble.jpg",
                 "title": "Apple crumble",
                 "body": "This consists of peeled, cored, and sliced Bramley apples covered with a crumbly breadcrumb mixture; made from flour, sugar, and butter.",
-                "price": 20.50
+                "price": 21.59
                 },
                 {
                 "FoodId": "english",
@@ -238,7 +238,7 @@ const Allfoods =
                 "url":"https://www.expatica.com/app/uploads/sites/10/2014/05/bangers-mash.jpg",
                 "title": "Bangers and mash",
                 "body": "The dish consists of a flavored sausage made of pork, lamb, or beef, served with a pile of mashed potatoes.",
-                "price": 20.50
+                "price": 21.59
                 },
                 {
                 "FoodId": "english",
