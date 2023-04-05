@@ -1,6 +1,6 @@
 import './Login.css';
 import { useContext, useEffect, useState } from "react";
-import { Link, Navigate, useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import axios from 'axios';
 import { AuthContext } from '../context';
 
@@ -46,7 +46,7 @@ const Login = () => {
       replace: true
     })
   }  
-  },[contextValue.isLogin])
+  },[contextValue.isLogin, navigate])
 
     return ( 
       <div className="login-page">
