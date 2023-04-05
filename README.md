@@ -25,6 +25,5 @@ The webpage contains the following
  password: 83r5^_
 
  ### Note: 
- This website has two filter, one based on cusine and another based on price. Both filters run independently. 
-
+ This website has two filter, one based on cuisine and another based on price. Both filters run independently. 
 Certain buttons on the page are for decoration purpose only and they are non functional.
