@@ -32,47 +32,47 @@ Certain buttons on the page are for decoration purpose only and they are non fun
   <summary>Home page</summary>
 
   ### Home page
-    b4login.png
-    </details>
+    
+   
 
  <details>
   <summary>Food page</summary>
 
   ### Food page
-    food.png
-    </details>
+    
+    
 
  <details>
   <summary>Bakes page</summary>
 
   ### Bakes page
-    bakes.png
-    </details>
+   
+    
 
 <details>
   <summary>Contact page</summary>
 
   ### Contact page
-    contact.png
-    </details>
+    
+    
 
 <details>
   <summary>Login page</summary>
 
   ### Login page
-    login.png
-    </details>
+    
+    
 
 <details>
   <summary>After Login</summary>
 
   ### Loggedin page
-    aftlogin.png
-    </details>
+
+    
 
 <details>
   <summary>Filtering food after login</summary>
 
   ### Filtering
-    withfilter.png
+  
     </details>
