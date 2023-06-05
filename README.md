@@ -33,8 +33,6 @@ Certain buttons on the page are for decoration purpose only and they are non fun
  
  ### Home page
  ![b4login](https://github.com/kiku18/Le-Catering/assets/100954256/4f177ef6-c14c-4195-ac5d-f0fdc14cf31c)
- 
-</details>
 
 <details>
   <summary>Food page</summary>
@@ -42,23 +40,17 @@ Certain buttons on the page are for decoration purpose only and they are non fun
  ### Food page content
  ![food](https://github.com/kiku18/Le-Catering/assets/100954256/810c3084-8c99-4763-b817-b98922d7027a)
 
-</details>
-
 <details>
   <summary>Bakes page</summary>
  
  ### Bakes section
  ![bakes](https://github.com/kiku18/Le-Catering/assets/100954256/c7c7eae7-4d14-484d-9e94-08fb30d98fc9)
  
- </details>
- 
  <details>
   <summary>Contact page</summary>
  
  ### Contact page
  ![contact](https://github.com/kiku18/Le-Catering/assets/100954256/1f95f9e2-f37e-4672-9c74-e43f55af3005)
-
- </details>
  
   <details>
   <summary>Login page</summary>
@@ -66,15 +58,11 @@ Certain buttons on the page are for decoration purpose only and they are non fun
  ### Login page
  ![login](https://github.com/kiku18/Le-Catering/assets/100954256/7d2928f6-2862-4c87-8315-a20f7b042a15)
  
- </details>
- 
    <details>
   <summary> After login</summary>
  
  ### After login
  ![aftlogin](https://github.com/kiku18/Le-Catering/assets/100954256/ae5e8a91-2097-445c-a728-2945297955e5)
-
- </details>
  
   <details>
   <summary> Filetering food after the login </summary>
@@ -82,6 +70,12 @@ Certain buttons on the page are for decoration purpose only and they are non fun
  ### Filetering food after the login
  ![withfilter](https://github.com/kiku18/Le-Catering/assets/100954256/faede081-2555-4374-9f15-7893c82e69fb)
 
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
+  </details>
   </details>
  
 
