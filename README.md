@@ -28,51 +28,12 @@ The webpage contains the following
  This website has two filter, one based on cuisine and another based on price. Both filters run independently. 
 Certain buttons on the page are for decoration purpose only and they are non functional.
 
- <details>
-  <summary>Home page</summary>
 
-  ### Home page
-    
+
+
+   
    
 
- <details>
-  <summary>Food page</summary>
 
-  ### Food page
-    
-    
 
- <details>
-  <summary>Bakes page</summary>
-
-  ### Bakes page
-   
-    
-
-<details>
-  <summary>Contact page</summary>
-
-  ### Contact page
-    
-    
-
-<details>
-  <summary>Login page</summary>
-
-  ### Login page
-    
-    
-
-<details>
-  <summary>After Login</summary>
-
-  ### Loggedin page
-
-    
-
-<details>
-  <summary>Filtering food after login</summary>
-
-  ### Filtering
   
-    </details>
